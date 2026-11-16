@@ -1,2 +1,7 @@
+os
+threading
+webbrowser
+tkinter
 flask
 requests_oauthlib
+pyreact 
